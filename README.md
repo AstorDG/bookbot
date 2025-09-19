@@ -1,2 +1,3 @@
 # bookbot
-The repo for my implementation of the book bot project from Boot.dev
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
